@@ -1,0 +1,67 @@
+#navbar {
+    background-color: burlywood;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+#wallet {
+    font-family: sans-serif;
+    margin-left: 900px;
+}
+
+#user-detail{
+    text-align: center;
+    line-height: 50px;
+    margin-top: 20px;
+}
+
+#user_name{
+    height: 30px;
+    font-size: 18px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+
+#number_of_seats{
+    height: 30px;
+    font-size: 18px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+
+#confirm {
+    padding: 5px 10px 5px 10px;
+    font-size: 18px;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: crimson;
+    color: white;
+}
+
+#confirm:hover{
+    color: gold;
+}
+
+#movie{
+    display: flex;
+    justify-content:center;
+}
+
+.datadiv{
+    width:200px;
+    text-align: center;
+    border:1px solid red;
+    height:auto;
+}
+
+.poster{
+    width:100%;
+    height:300px;
+}

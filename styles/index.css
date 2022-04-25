@@ -1,0 +1,64 @@
+#navbar {
+    margin: auto;
+    background-color: burlywood;
+    padding:10px;
+}
+
+#tag {
+    text-align: center;
+}
+
+#wallet {
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 900px;
+}
+
+#add-money {
+    margin: auto;
+    text-align: center;
+    line-height: 70px;
+    margin-top: 100px;
+    background-color: beige;
+    width:20%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+
+#amount {
+    height: 30px;
+    font-size: 18px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding-left: 10px;
+}
+
+#add_to_wallet {
+    padding: 5px 10px 5px 10px;
+    font-size: 18px;
+    border: 1px solid lightseagreen;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: lightseagreen;
+    color: white;
+}
+
+#add_to_wallet:hover {
+    color: black;
+}
+
+#book_movies {
+    padding: 5px 10px 5px 10px;
+    font-size: 18px;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: crimson;
+    color: white;
+}
+
+#book_movies:hover{
+    color: gold;
+}
